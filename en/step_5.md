@@ -28,3 +28,5 @@ def draw():
     )  
   
 --- /code ---
+
+**Test:** Change the function name, then run your code to see a rectangle instead of an ellipse.
