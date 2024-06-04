@@ -20,6 +20,6 @@ steps:
   - title: Positioning shapes
   - title: Overlapping shapes
   - title: Create your face
-      completion:
+    completion:
       - internal
   - title: What next?
