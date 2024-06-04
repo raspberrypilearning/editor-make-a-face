@@ -18,7 +18,7 @@ steps:
   - title: Rectangles
   - title: Triangles
   - title: Positioning shapes
-  - title: Overlapping shapes
+  - title: Overlap shapes
   - title: Create your face
     completion:
       - internal

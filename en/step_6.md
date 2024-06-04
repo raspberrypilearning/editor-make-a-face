@@ -12,7 +12,7 @@ Replace your rectangle code with a call to the `triangle` function. Each pair of
 language: python
 line_numbers: true
 line_number_start: 10
-line_highlights: 15
+line_highlights: 15-19
 ---
 
 def draw():
