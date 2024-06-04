@@ -8,7 +8,7 @@ Set up your image by choosing a background colour.
  
 ![Examples of different faces.](images/strip.png)
 
-The three numbers in `background(255, 255, 255)` are red, green and blue values. Experiment with changing the numbers to any whole number between 0 and 255 to change the background colour. 
+The three numbers in `background(0, 0, 0)` are red, green and blue values. Experiment with changing the numbers to any whole number between 0 and 255 to change the background colour. 
 
 <div class="c-project-code">
 --- code ---
@@ -21,7 +21,7 @@ line_highlights: 12
  
 def draw():   
     # Put code to run every frame here
-    background(255, 255, 255)    
+    background(0, 0, 0)    
   
 --- /code ---
 </div>
@@ -32,6 +32,6 @@ def draw():
 
 ### Tip
 
-Choose a specific colour for your background using a [colour picker](https://www.w3schools.com/colors/colors_rgb.asp).
+For a white background, choose `background(255, 255, 255)`.
 
 </div>
