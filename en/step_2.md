@@ -14,7 +14,7 @@ Add code to the `draw()` function to set a colour and draw an ellipse (oval).
 language: python
 line_numbers: true
 line_number_start: 10
-line_highlights: 14-15
+line_highlights: 14-20
 ---
 
 def draw():
@@ -22,7 +22,12 @@ def draw():
     background(255, 255, 255)  
     # Add code to draw your face here
     fill(255, 255, 0) 
-    ellipse(screen_size/2, screen_size/2, 200, 200)  
+    ellipse(
+        screen_size/2, 
+        screen_size/2, 
+        200, 
+        200
+    )  
   
 --- /code ---
 
@@ -32,7 +37,7 @@ def draw():
 
 ### Tip
 
-Make sure that the fill colour of your oval is not the same colour as your background.
+Make sure that the fill colour of your ellipse is not the same colour as your background.
 
 </div>
 
