@@ -24,7 +24,7 @@ def draw():
 
 Set the `fill` colour for your mouth then draw an `ellipse`. Set the `fill` colour again, this time to match the face colour, then draw a second `ellipse`.
 
-Change the `y` coordinate of the second `ellipse` to a slightly higher position for a smile or a slightly lower position for a frown. 
+Change the `y` coordinate of the second `ellipse` to a slightly higher position for a smile.
 
 --- code ---
 ---
@@ -48,4 +48,3 @@ def draw():
 
 **Test:** Experiment with changing the fill colours and sizes of the ellipses. Run your program to see the results.
 
-![The output area showing a smiling mouth.](images/smile.png)
