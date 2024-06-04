@@ -15,11 +15,12 @@ The three numbers in `background(255, 255, 255)` are red, green and blue values.
 ---
 language: python
 line_numbers: true
-line_number_start: 12 
-line_highlights: 13
+line_number_start: 10
+line_highlights: 12
 ---
  
 def draw():   
+    # Put code to run every frame here
     background(255, 255, 255)    
   
 --- /code ---
