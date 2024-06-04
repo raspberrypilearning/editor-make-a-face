@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Set up your project</h2>
+<h2 class="c-project-heading--task">Choose a background colour</h2>
 
 --- task ---
 Think of an idea for the kind of face or mask you want to make.

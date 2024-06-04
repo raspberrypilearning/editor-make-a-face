@@ -1,3 +1,33 @@
+
+
+
+Choose a stroke colour for the outline and a fill colour for the main part of the shape.
+
+[[[processing-stroke]]]
+
+If you don't want an outline, then use `no_stroke()`.
+
+--- code ---
+---
+language: python
+filename: main.py - draw()
+line_numbers: true
+line_number_start: 13
+line_highlights: 14
+---
+
+    # Add code to draw your face here
+    fill(255, 255, 0)  # Bright yellow
+    ellipse(width/2, height/2, 200, 200)
+  
+--- /code ---
+
+
+
+
+
+
+
 ## Add eyes
 
 <div style="display: flex; flex-wrap: wrap">

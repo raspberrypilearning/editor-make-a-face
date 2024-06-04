@@ -5,7 +5,7 @@ Draw and colour a shape for your face or mask.
 
 --- /task --- 
  
-Add code to the `draw()` function to set a colour and draw an ellipse (oval).
+Add code to the `draw()` function to set the fill colour and draw an ellipse (oval) in this colour.
 
 <div class="c-project-code">
 

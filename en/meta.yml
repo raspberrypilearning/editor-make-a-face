@@ -9,9 +9,9 @@ listed: false
 copyedit: false
 last_tested: "2024-06-04"
 steps:
-  - title: You will make
-  - title: Choose a theme
+  - title: Choose a background colour
   - title: Face shape
+  - title: Change the size
     completion:
       - engaged
   - title: Add eyes
