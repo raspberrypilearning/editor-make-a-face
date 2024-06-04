@@ -14,11 +14,12 @@ steps:
   - title: Change the size
     completion:
       - engaged
-  - title: Add eyes
-  - title: Add a mouth
-  - title: Add more details
-    completion:
+  - title: Outlines
+  - title: Rectangles
+  - title: Triangles
+  - title: Positioning shapes
+  - title: Overlapping shapes
+  - title: Create your face
+      completion:
       - internal
-  - title: Upgrade your project
-  - title: Share
   - title: What next?
