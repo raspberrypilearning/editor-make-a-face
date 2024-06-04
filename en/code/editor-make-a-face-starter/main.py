@@ -5,6 +5,7 @@ screen_size = 400
 def setup():
     # Put code to run once here
     size(screen_size, screen_size) 
+    rect_mode(CENTER)
 
 
 def draw():
