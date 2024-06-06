@@ -1,11 +1,11 @@
 <h2 class="c-project-heading--task">Triangles</h2>
 
 --- task ---
-You can also draw a triangle, but you will need to specify the x,y coordinates of each of the three points of the triangle.
+➡️ Practice drawing a triangle
 
 --- /task --- 
 
-Replace your rectangle code with a call to the `triangle` function. Each pair of values is an x,y coordinate for one of the points of the triangle.
+Add code to draw a `triangle`. Each pair of values is an x,y coordinate for one of the points of the triangle.
 
 --- code ---
 ---

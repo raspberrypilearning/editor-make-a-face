@@ -3,7 +3,7 @@
 --- task ---
 The outline of a shape is called the **stroke**.
 
-Change the stroke colour and thickness, or remove it altogether if you prefer.
+➡️ Change the stroke colour and thickness, or remove it altogether if you prefer.
 
 --- /task --- 
 

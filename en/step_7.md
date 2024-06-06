@@ -1,7 +1,7 @@
 <h2 class="c-project-heading--task">Positioning shapes</h2>
 
 --- task ---
-Position the ellipse or rectangle by changing the x,y coordinates of its centre point. 
+➡️ Position an ellipse or rectangle by changing the x,y coordinates of its centre point. 
 
 --- /task --- 
 

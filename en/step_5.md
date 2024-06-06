@@ -1,7 +1,7 @@
 <h2 class="c-project-heading--task">Rectangles</h2>
 
 --- task ---
-You can draw other shapes. Practice drawing a rectangle.
+➡️ Practice drawing a rectangle.
 
 --- /task --- 
 

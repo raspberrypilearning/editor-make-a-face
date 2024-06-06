@@ -1,7 +1,9 @@
 <h2 class="c-project-heading--task">Create your face</h2>
 
 --- task ---
-Now it is over to you! Use the skills you have learned to draw shapes and create a face. 
+Now it is over to you! 
+
+➡️ Use the skills you have learned to draw shapes and create a face. 
 
 --- /task --- 
 

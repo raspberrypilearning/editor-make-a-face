@@ -1,7 +1,7 @@
 <h2 class="c-project-heading--task">Overlap shapes</h2>
 
 --- task ---
-Make shapes you couldn't otherwise create by overlapping shapes. 
+➡️ Make shapes you couldn't otherwise create by overlapping shapes. 
 
 --- /task --- 
 
