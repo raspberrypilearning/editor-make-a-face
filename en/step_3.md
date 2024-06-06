@@ -1,7 +1,7 @@
 <h2 class="c-project-heading--task">Change the size</h2>
 
 --- task ---
-➡️ Make the ellipse larger or smaller, or create an oval shape by making one of the dimensions larger than the other.
+➡️ Make the circle larger or smaller, or create an oval shape by making one of the dimensions larger than the other.
 
 --- /task --- 
  

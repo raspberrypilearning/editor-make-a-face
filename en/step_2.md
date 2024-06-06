@@ -1,7 +1,7 @@
 <h2 class="c-project-heading--task">Face shape</h2>
 
 --- task ---
-➡️ Draw and colour a shape for your face or mask. 
+➡️ Draw and colour an ellipse. 
 
 --- /task --- 
  
