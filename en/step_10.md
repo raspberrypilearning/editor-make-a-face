@@ -1,7 +1,7 @@
 <h2 class="c-project-heading--task">You've completed the project 🎉</h2>
 
 --- task ---
-We’d love to hear your thoughts about using the code editor to complete the Hello World project! 
+We’d love to hear your thoughts about using the code editor to complete the 'Make a face' project! 
 
 ➡️ Please complete our [feedback form](https://form.raspberrypi.org/4873648) to let us know.
 
