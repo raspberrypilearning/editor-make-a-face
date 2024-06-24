@@ -11,15 +11,17 @@ last_tested: "2024-06-04"
 steps:
   - title: Choose a background colour
   - title: Face shape
-  - title: Change the size
     completion:
       - engaged
+  - title: Change the size
   - title: Outlines
   - title: Rectangles
   - title: Triangles
   - title: Positioning shapes
   - title: Overlap shapes
-  - title: Create your face
     completion:
       - internal
+  - title: Create your face
+    completion:
+      - external
   - title: What next?
