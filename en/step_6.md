@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Triangles</h2>
 
---- task ---
+### Step 1
 ➡️ Practice drawing a triangle
 
---- /task --- 
 
 Add code to draw a `triangle`. Each pair of values is an x,y coordinate for one of the points of the triangle.
 

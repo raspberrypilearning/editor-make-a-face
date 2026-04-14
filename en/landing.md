@@ -1,7 +1,11 @@
+## What you will make
 
-Write Python code to draw a face or mask using geometric shapes. 
+Write Python code to draw a face or mask using geometric shapes.
 
-**Kawaii fruit**:
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/fruit-face-example" width="400" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-[See inside](https://editor.raspberrypi.org/en/projects/fruit-face-example){:target="_blank"}
+![A face with ninja eyes](images/eyes.png){:width="150px"}
+![A face that looks like Frida Kahlo](images/frida.png){:width="150px"}
+![A face that looks like a robot with teeth](images/robot-teeth.png){:width="150px"}
+![A face that looks like a tribal mask](images/tribal.png){:width="150px"}
+![A face wearing a face mask](images/rectangle-mask.png){:width="150px"}
+![A face that looks like a vampire](images/vampire.png){:width="150px"}
+

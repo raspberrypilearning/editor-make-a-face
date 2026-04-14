@@ -7,8 +7,8 @@ meta_description: Learn Python with the Raspberry Pi Foundation's coding project
 version: 4
 listed: true
 copyedit: false
-landing: true
 last_tested: "2024-06-04"
+landing: true
 steps:
   - title: Choose a background colour
   - title: Face shape
@@ -20,9 +20,7 @@ steps:
   - title: Triangles
   - title: Positioning shapes
   - title: Overlap shapes
-    completion:
-      - internal
   - title: Create your face
     completion:
+      - internal
       - external
-  - title: What next?

@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Face shape</h2>
 
---- task ---
+### Step 1
 ➡️ Draw and colour a circle. 
 
---- /task --- 
 
 An **ellipse** is an oval shape. If you specify the same width and height, you will draw a circle.  
 
@@ -46,5 +45,3 @@ Make sure that the fill colour of your ellipse is not the same colour as your ba
 </div>
 
 **Test:** Run your code and you should see a coloured circle.
-
-

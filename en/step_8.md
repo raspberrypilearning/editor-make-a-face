@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Overlap shapes</h2>
 
---- task ---
+### Step 1
 ➡️ Make shapes you couldn't otherwise create by overlapping shapes. 
 
---- /task --- 
 
 You could add two overlapping circles to create a smile. Start with an ellipse to represent the face. 
 
@@ -47,4 +46,3 @@ def draw():
 --- /code ---
 
 **Test:** Experiment with changing the fill colours and sizes of the ellipses. Run your program to see the results.
-
