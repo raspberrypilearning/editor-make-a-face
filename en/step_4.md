@@ -1,7 +1,8 @@
 <h2 class="c-project-heading--task">Outlines</h2>
 
-### Step 1
 The outline of a shape is called the **stroke**.
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 ➡️ Change the stroke colour and thickness, or remove it.
 
@@ -48,4 +49,8 @@ line_highlights: 15
   
 --- /code ---
 
-**Test:** Experiment with changing the stroke colour and thickness or removing it, then run your code to see the results.
+## Now run your code
+
+Experiment with changing the stroke colour and thickness or removing it, then run your code to see the results.
+
+Confirm the observable result.

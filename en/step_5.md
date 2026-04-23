@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">Rectangles</h2>
 
-### Step 1
 ➡️ Practice drawing a rectangle.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Change the function `ellipse` to instead call the function `rect`.
 
@@ -28,4 +28,8 @@ def draw():
   
 --- /code ---
 
-**Test:** Change the function name, then run your code to see a rectangle instead of an ellipse.
+## Now run your code
+
+Change the function name, then run your code to see a rectangle instead of an ellipse.
+
+Confirm the observable result.

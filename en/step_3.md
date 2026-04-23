@@ -1,9 +1,9 @@
 <h2 class="c-project-heading--task">Change the size</h2>
 
-### Step 1
 ➡️ Make the circle larger or smaller, or create an oval shape by making one of the dimensions larger than the other.
 
- 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
 Change the width and height values to see the ellipse change shape. 
 
 <div class="c-project-code">
@@ -32,12 +32,16 @@ def draw():
 
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 If you set the width or height to a number larger than the `screen_size`, your ellipse will not fit on the screen.
 
 </div>
 
-**Test:** Run your code and you should see the ellipse change size.
+## Now run your code
+
+You should see the ellipse change size.
+
+Confirm the observable result.

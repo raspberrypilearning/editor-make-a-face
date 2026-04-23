@@ -1,12 +1,14 @@
 <h2 class="c-project-heading--task">Choose a background colour</h2>
 
-### Step 1
 ➡️ Think of an idea for the kind of face or mask you want to make.
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 ➡️ Set up your image by choosing a background colour.
  
+<div class="c-project-output">
 ![Examples of different faces.](images/strip.png)
-
+</div>
 The three numbers in `background(0, 0, 0)` are red, green and blue values. Experiment with changing the numbers to any whole number between 0 and 255 to change the background colour. 
 
 <div class="c-project-code">
@@ -25,12 +27,16 @@ def draw():
 --- /code ---
 </div>
 
-**Test:** Run your code and you should see a coloured square. 
+## Now run your code
 
-<div class="c-project-callout c-project-callout--tip">
+You should see a coloured square.
 
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 For a white background, choose `background(255, 255, 255)`.
 
 </div>
+
+Confirm the observable result.

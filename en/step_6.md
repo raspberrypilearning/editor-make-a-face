@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">Triangles</h2>
 
-### Step 1
 ➡️ Practice drawing a triangle
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Add code to draw a `triangle`. Each pair of values is an x,y coordinate for one of the points of the triangle.
 
@@ -27,4 +27,8 @@ def draw():
   
 --- /code ---
 
-**Test:** Experiment with changing the coordinates, then run your code to see a triangle displayed by joining the dots at those coordinates.
+## Now run your code
+
+Experiment with changing the coordinates, then run your code to see a triangle displayed by joining the dots at those coordinates.
+
+Confirm the observable result.

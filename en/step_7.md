@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">Positioning shapes</h2>
 
-### Step 1
-➡️ Position an ellipse or rectangle by changing the x,y coordinates of its centre point. 
+➡️ Position an ellipse or rectangle by changing the x,y coordinates of its centre point.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 The first two values for `ellipse` and `rectangle` represent the x, y coordinates of its centre. Change the values to alter where it appears on the screen. 
 
@@ -28,11 +28,15 @@ def draw():
   
 --- /code ---
 
-<div class="c-project-callout c-project-callout--tip">
 ### Tip
+<div class="c-project-callout c-project-callout--tip">
 
 The top left corner of the screen is coordinate 0,0. Increasing the first number will move the shape to the right. Increasing the second number will move the shape downwards.  
 
 </div>
 
-**Test:** Experiment with changing the coordinates, then run your code to see where the ellipse or rectangle is displayed.
+## Now run your code
+
+Experiment with changing the coordinates, then run your code to see where the ellipse or rectangle is displayed.
+
+Confirm the observable result.
