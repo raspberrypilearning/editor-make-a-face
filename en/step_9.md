@@ -24,4 +24,4 @@ Here are some examples for inspiration
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your own face design appears on the screen.

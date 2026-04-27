@@ -31,4 +31,4 @@ def draw():
 
 Experiment with changing the coordinates, then run your code to see a triangle displayed by joining the dots at those coordinates.
 
-Confirm the observable result.
+Run your code and check that a triangle is drawn using the coordinates you chose.

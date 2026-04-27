@@ -32,4 +32,4 @@ def draw():
 
 Change the function name, then run your code to see a rectangle instead of an ellipse.
 
-Confirm the observable result.
+Run your code and check that you now see a rectangle instead of an ellipse.

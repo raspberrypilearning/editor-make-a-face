@@ -39,4 +39,4 @@ The top left corner of the screen is coordinate 0,0. Increasing the first number
 
 Experiment with changing the coordinates, then run your code to see where the ellipse or rectangle is displayed.
 
-Confirm the observable result.
+Run your code and check that the shape moves when you change its coordinates.

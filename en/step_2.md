@@ -48,4 +48,4 @@ Make sure that the fill colour of your ellipse is not the same colour as your ba
 
 You should see a coloured circle.
 
-Confirm the observable result.
+Run your code and check that you see a coloured circle.

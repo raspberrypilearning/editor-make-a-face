@@ -53,4 +53,4 @@ line_highlights: 15
 
 Experiment with changing the stroke colour and thickness or removing it, then run your code to see the results.
 
-Confirm the observable result.
+Run your code and check that the shape outline changes, or disappears if you removed the stroke.

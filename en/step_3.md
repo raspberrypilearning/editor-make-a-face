@@ -44,4 +44,4 @@ If you set the width or height to a number larger than the `screen_size`, your e
 
 You should see the ellipse change size.
 
-Confirm the observable result.
+Run your code and check that the ellipse changes size.

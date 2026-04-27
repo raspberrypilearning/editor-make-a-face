@@ -49,4 +49,4 @@ def draw():
 
 Experiment with changing the fill colours and sizes of the ellipses. Run your program to see the results.
 
-Confirm the observable result.
+Run your code and check that the overlapping ellipses make a smiling mouth.

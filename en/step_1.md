@@ -39,4 +39,4 @@ For a white background, choose `background(255, 255, 255)`.
 
 </div>
 
-Confirm the observable result.
+Run your code and check that you see a coloured square.
