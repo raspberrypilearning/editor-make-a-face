@@ -2,10 +2,7 @@
 
 The outline of a shape is called the **stroke**.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ➡️ Change the stroke colour and thickness, or remove it.
-
 
 Before the code where you draw the ellipse, you can choose to set a colour and thickness.
 
