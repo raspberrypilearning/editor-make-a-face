@@ -2,8 +2,6 @@
 
 ➡️ Practice drawing a rectangle.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Change the function `ellipse` to instead call the function `rect`.
 
 --- code ---
