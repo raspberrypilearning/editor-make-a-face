@@ -1,3 +1,4 @@
 name: 'Make A Face'
 identifier: 'editor-make-a-face-starter'
 type: 'python'
+build: true

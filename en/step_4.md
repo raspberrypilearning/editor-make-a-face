@@ -1,11 +1,11 @@
 <h2 class="c-project-heading--task">Outlines</h2>
 
---- task ---
 The outline of a shape is called the **stroke**.
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 ➡️ Change the stroke colour and thickness, or remove it.
 
---- /task --- 
 
 Before the code where you draw the ellipse, you can choose to set a colour and thickness.
 
@@ -49,4 +49,8 @@ line_highlights: 15
   
 --- /code ---
 
-**Test:** Experiment with changing the stroke colour and thickness or removing it, then run your code to see the results. 
+## Now run your code
+
+Experiment with changing the stroke colour and thickness or removing it, then run your code to see the results.
+
+Run your code and check that the shape outline changes, or disappears if you removed the stroke.

@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Face shape</h2>
 
---- task ---
-➡️ Draw and colour a circle. 
+➡️ Draw and colour a circle.
 
---- /task --- 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 An **ellipse** is an oval shape. If you specify the same width and height, you will draw a circle.  
 
@@ -37,14 +36,16 @@ def draw():
 
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Make sure that the fill colour of your ellipse is not the same colour as your background.
 
 </div>
 
-**Test:** Run your code and you should see a coloured circle.
+## Now run your code
 
+You should see a coloured circle.
 
+Run your code and check that you see a coloured circle.
