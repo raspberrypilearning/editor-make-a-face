@@ -1,9 +1,5 @@
 <h2 class="c-project-heading--task">Choose a background colour</h2>
 
-➡️ Think of an idea for the kind of face or mask you want to make.
-
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ➡️ Set up your image by choosing a background colour.
  
 <div class="c-project-output">

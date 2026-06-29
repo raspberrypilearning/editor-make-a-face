@@ -2,8 +2,6 @@
 
 ➡️ Position an ellipse or rectangle by changing the x,y coordinates of its centre point.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 The first two values for `ellipse` and `rectangle` represent the x, y coordinates of its centre. Change the values to alter where it appears on the screen. 
 
 --- code ---

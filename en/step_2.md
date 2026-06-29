@@ -2,8 +2,6 @@
 
 ➡️ Draw and colour a circle.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 An **ellipse** is an oval shape. If you specify the same width and height, you will draw a circle.  
 
 Add code to the `draw()` function to set the fill colour in the same way as before using red, green and blue values.

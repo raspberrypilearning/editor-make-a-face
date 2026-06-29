@@ -2,8 +2,6 @@
 
 ➡️ Make shapes you couldn't otherwise create by overlapping shapes.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 You could add two overlapping circles to create a smile. Start with an ellipse to represent the face. 
 
 --- code ---
