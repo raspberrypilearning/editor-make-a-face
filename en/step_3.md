@@ -2,8 +2,6 @@
 
 ➡️ Make the circle larger or smaller, or create an oval shape by making one of the dimensions larger than the other.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Change the width and height values to see the ellipse change shape. 
 
 <div class="c-project-code">
