@@ -1,7 +1,5 @@
 <h2 class="c-project-heading--task">Rectangles</h2>
 
-➡️ Practice drawing a rectangle.
-
 Change the function `ellipse` to instead call the function `rect`.
 
 --- code ---
