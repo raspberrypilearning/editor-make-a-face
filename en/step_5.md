@@ -1,14 +1,8 @@
-<h2 class="c-project-heading--task">Rectangles</h2>
+## Rectangles
 
 Change the function `ellipse` to instead call the function `rect`.
 
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 10
-line_highlights: 15
----
+```python line_numbers="true" line_number_start="10" line_highlights="15"
 
 def draw():
     # Put code to run every frame here
@@ -22,10 +16,8 @@ def draw():
         50
     )  
   
---- /code ---
+```
 
 ## Now run your code
-
-Change the function name, then run your code to see a rectangle instead of an ellipse.
 
 Run your code and check that you now see a rectangle instead of an ellipse.

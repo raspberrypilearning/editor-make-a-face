@@ -1,18 +1,10 @@
-<h2 class="c-project-heading--task">Change the size</h2>
+## Change the size
 
 ➡️ Make the circle larger or smaller, or create an oval shape by making one of the dimensions larger than the other.
 
 Change the width and height values to see the ellipse change shape. 
 
-<div class="c-project-code">
-
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 10
-line_highlights: 18-19
----
+```python line_numbers="true" line_number_start="10" line_highlights="18-19"
 
 def draw():
     # Put code to run every frame here
@@ -26,20 +18,12 @@ def draw():
         50
     )  
   
---- /code ---
+```
 
-</div>
-
-### Tip
-
-<div class="c-project-callout c-project-callout--tip">
-
-If you set the width or height to a number larger than the `screen_size`, your ellipse will not fit on the screen.
-
-</div>
+> [!TIP]
+>
+> If you set the width or height to a number larger than the `screen_size`, your ellipse will not fit on the screen.
 
 ## Now run your code
-
-You should see the ellipse change size.
 
 Run your code and check that the ellipse changes size.

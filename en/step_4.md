@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Outlines</h2>
+## Outlines
 
 The outline of a shape is called the **stroke**.
 
@@ -7,13 +7,7 @@ The outline of a shape is called the **stroke**.
 Before the code where you draw the ellipse, you can choose to set a colour and thickness.
 
 
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 14
-line_highlights: 15-16
----
+```python line_numbers="true" line_number_start="14" line_highlights="15-16"
     fill(255, 255, 0) 
     stroke(255, 255, 255)  
     stroke_weight(3)
@@ -24,17 +18,11 @@ line_highlights: 15-16
         50
     )  
     
---- /code ---
+```
 
 If you prefer, you can remove the stroke and have no outline.
 
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 14
-line_highlights: 15
----
+```python line_numbers="true" line_number_start="14" line_highlights="15"
     fill(255, 255, 0) 
     no_stroke()
     ellipse(
@@ -44,10 +32,8 @@ line_highlights: 15
         50
     )  
   
---- /code ---
+```
 
 ## Now run your code
-
-Experiment with changing the stroke colour and thickness or removing it, then run your code to see the results.
 
 Run your code and check that the shape outline changes, or disappears if you removed the stroke.
