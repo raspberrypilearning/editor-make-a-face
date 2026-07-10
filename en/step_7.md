@@ -1,16 +1,10 @@
-<h2 class="c-project-heading--task">Positioning shapes</h2>
+## Positioning shapes
 
 ➡️ Position an ellipse or rectangle by changing the x,y coordinates of its centre point.
 
 The first two values for `ellipse` and `rectangle` represent the x, y coordinates of its centre. Change the values to alter where it appears on the screen. 
 
---- code ---
----
-language: python
-line_numbers: true
-line_number_start: 11
-line_highlights: 17-18
----
+```python line_numbers="true" line_number_start="11" line_highlights="17-18"
 
 def draw():
     # Put code to run every frame here
@@ -24,17 +18,12 @@ def draw():
         50
     )  
   
---- /code ---
+```
 
-### Tip
-<div class="c-project-callout c-project-callout--tip">
-
-The top left corner of the screen is coordinate 0,0. Increasing the first number will move the shape to the right. Increasing the second number will move the shape downwards.  
-
-</div>
+> [!TIP]
+>
+> The top left corner of the screen is coordinate 0,0. Increasing the first number will move the shape to the right. Increasing the second number will move the shape downwards.
 
 ## Now run your code
-
-Experiment with changing the coordinates, then run your code to see where the ellipse or rectangle is displayed.
 
 Run your code and check that the shape moves when you change its coordinates.
